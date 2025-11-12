@@ -1,0 +1,31 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE / Editors
+.idea/
+.vscode/
+*.code-workspace
+*.iml
+
+# Logs and caches
+*.log
+logs/
+tmp/
+cache/
+*.tmp
+
+# Environment files
+.env
+.env.*
+
+# PHP Composer
+/vendor/
+
+# Node (if present)
+node_modules/
+
+# Backups
+*~
